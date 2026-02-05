@@ -23,14 +23,6 @@ Line profiling revealed that most execution time is spent in mathematical operat
 
 ---
 
-## 🔹 Tools Used
-
-- `cProfile`
-- `SnakeViz`
-- `line_profiler`
-
----
-
 ## 🔹 How to Run
 
 > **Note for Mac users:** Add `3` to all `python` commands (`python3` instead of `python`)
