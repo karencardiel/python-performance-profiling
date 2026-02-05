@@ -1,4 +1,4 @@
-# <img src="https://slackmojis.com/emojis/37851-dog-computer/download" width="50"/> Python Performance Profiling – Chapter 2 Case Study
+# <img src="https://slackmojis.com/emojis/37851-dog-computer/download" width="50"/> Python Performance Profiling
 
 This project applies profiling techniques described in Chapter 2 to analyze Python performance in two different scenarios:
 
