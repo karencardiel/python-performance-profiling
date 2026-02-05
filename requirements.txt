@@ -1,0 +1,3 @@
+requests
+snakeviz
+line_profiler

@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Profiling output files
+*.prof
+*.lprof
+profile*.txt
+
+# CSV data downloaded
+station_*.csv
+cache/
+
+# macOS
+.DS_Store
+
+# data
+python-performance/
