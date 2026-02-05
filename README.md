@@ -33,7 +33,7 @@ Line profiling revealed that most execution time is spent in mathematical operat
 
 ## 🔹 How to Run
 
-> **Note for Mac users:** Add `3` to all `python` commands (e.g., `python3` instead of `python`)
+> **Note for Mac users:** Add `3` to all `python` commands (`python3` instead of `python`)
 
 ### 🔸 Install dependencies
 ```bash
