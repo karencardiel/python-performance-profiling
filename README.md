@@ -34,7 +34,9 @@ pip install -r requirements.txt
 
 ### 🔸 Section 2.1 (I/O profiling)
 ```bash
-python -m cProfile -s cumulative load.py 01044099999,02293099999 2021 2021 > profile.txt
+python load.py 01044099999,02293099999 2021-2021
+python -m cProfile -s cumulative load.py 01044099999,02293099999 2021-2021 > profile.txt
+python -m cProfile -s cumulative load_canche.py 01044099999,02293099999 2021-2021 > profile_cache.txt
 ```
 
 ### 🔸 Section 2.2 (CPU profiling)
